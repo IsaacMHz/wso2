@@ -5,15 +5,7 @@ const Layout = (props) => {
   return (
     <>
       <div className="container">
-        {isLoading ? (
-          <div className="content">Loading ...</div>
-        ) : hasErrors ? (
-          <div className="content">
-            An error occurred while authenticating ...
-          </div>
-        ) : (
-          children
-        )}
+        {children}
       </div>
     </>
   );

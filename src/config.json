@@ -1,6 +1,6 @@
 {
-    "clientID": "MIzjwSVzzFQC7H_gmgJPQBh8ORAa",
-    "baseUrl": "https://localhost:9443",
+    "clientID": "xuzqgAvfEUY_GfHZuBeyBLg_KGUa",
+    "baseUrl": "https://id.zacatecas.gob.mx",
     "signInRedirectURL": "https://localhost:3000",
     "signOutRedirectURL": "https://localhost:3000",
     "scope": [ "profile" ]
